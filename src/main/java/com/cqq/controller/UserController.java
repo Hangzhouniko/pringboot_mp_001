@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/users")
 public class UserController {
 
-    @GetMapping("/{id}")
-    public Result getById(@PathVariable "{id}"){
-        return null;
-    }
+//    @GetMapping("/{id}")
+//    public Result getById(@PathVariable "{id}"){
+//        return null;
+//    }
 }
