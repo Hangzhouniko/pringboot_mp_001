@@ -17,6 +17,7 @@ public class UserController {
         System.out.println("hello git222~");
         System.out.println("hello git33333~");
         System.out.println("hello git4444444444~");
+        System.out.println("hot-fix2 test2~~");
 
         System.out.println("hot-fix2 test~~");
     }
