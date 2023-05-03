@@ -21,5 +21,7 @@ public class UserController {
         System.out.println("hot-fix2 test2~~");
 
         System.out.println("hot-fix2 test~~");
+        System.out.println("push test~~");
+
     }
 }
